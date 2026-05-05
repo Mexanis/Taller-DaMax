@@ -1,0 +1,36 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "washing": "Lavado de Vehículos",
+    "painting": "Chapa y Pintura",
+    "mechanical": "Mecánica",
+    "selling": "Venta de Vehículos",
+    "book": "Reservar Lavado"
+  },
+  "home": {
+    "hero_title": "Excelencia y Cuidado para tu Vehículo",
+    "hero_subtitle": "En DaMax Autoservice, somos tu taller integral. Desde mantenimiento mecánico hasta chapa, pintura y lavado al detalle.",
+    "services_title": "Nuestros Servicios"
+  },
+  "services": {
+    "washing": {
+      "title": "Lavado de Vehículos",
+      "desc": "Limpieza profunda interior y exterior. Lavado rápido o al detalle."
+    },
+    "painting": {
+      "title": "Chapa y Pintura",
+      "desc": "Reparación de carrocería y pintura profesional para dejar tu coche como nuevo."
+    },
+    "mechanical": {
+      "title": "Mecánica General",
+      "desc": "Mantenimiento, diagnóstico y reparación de averías."
+    },
+    "selling": {
+      "title": "Venta de Vehículos",
+      "desc": "Vehículos restaurados y garantizados a un precio insuperable."
+    }
+  },
+  "footer": {
+    "rights": "© 2026 DaMax Autoservice. Todos los derechos reservados."
+  }
+}

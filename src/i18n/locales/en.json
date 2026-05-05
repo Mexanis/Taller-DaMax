@@ -1,0 +1,36 @@
+{
+  "nav": {
+    "home": "Home",
+    "washing": "Car Wash",
+    "painting": "Body & Paint",
+    "mechanical": "Mechanics",
+    "selling": "Car Sales",
+    "book": "Book Car Wash"
+  },
+  "home": {
+    "hero_title": "Excellence and Care for your Vehicle",
+    "hero_subtitle": "At DaMax Autoservice, we are your comprehensive workshop. From mechanical maintenance to bodywork, paint, and detailing.",
+    "services_title": "Our Services"
+  },
+  "services": {
+    "washing": {
+      "title": "Car Wash",
+      "desc": "Deep interior and exterior cleaning. Quick wash or full detail."
+    },
+    "painting": {
+      "title": "Body & Paint",
+      "desc": "Professional body repair and painting to make your car look brand new."
+    },
+    "mechanical": {
+      "title": "General Mechanics",
+      "desc": "Maintenance, diagnostics, and repairs."
+    },
+    "selling": {
+      "title": "Car Sales",
+      "desc": "Restored and guaranteed vehicles at an unbeatable price."
+    }
+  },
+  "footer": {
+    "rights": "© 2026 DaMax Autoservice. All rights reserved."
+  }
+}
